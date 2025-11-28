@@ -1,5 +1,2 @@
 #!/usr/bin/env bash
-# 4-TCP_and_UDP_ports
-
-# yalnız listening portları göstər və PID/Program adını göstər
-netstat -tulnp
+ss -tulnp
