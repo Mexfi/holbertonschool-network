@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # File: 2-listening_ports.sh
 
 # Shows only listening sockets with PID and program name
