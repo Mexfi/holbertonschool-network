@@ -1,47 +1,5 @@
-The OSI (Open Systems Interconnection) model is a conceptual framework that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
-
-OSI Model Layers:
-
-7. Application Layer
-   - Protocols: FTP, HTTP, SMTP
-   - Network process to application
-
-6. Presentation Layer
-   - Formats: Jpeg, Mpeg, Gif
-   - Data representation & encryption
-
-5. Session Layer
-   - Protocols: AppleTalk
-   - Interhost communication
-
-4. Transport Layer
-   - Protocols: TCP, UDP
-   - End-to-end connections & reliability
-
-3. Network Layer
-   - Protocols: IP, IPX, ICMP
-   - Path determination & logical addressing
-
-2. Data Link Layer
-   - Protocols: PPP, Ethernet
-   - Physical addressing
-
-1. Physical Layer
-   - Technologies: Ethernet, USB
-   - Media signal & binary transmission
-
-Answers to Questions:
-
-1. What is the OSI model?
-   - The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
-
-2. How is the OSI model organized?
-   - From the lowest to the highest level
-
 What is the OSI model?
-
-The OSI (Open Systems Interconnection) model is a conceptual framework that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
+The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
 
 How is the OSI model organized?
-
 From the lowest to the highest level
