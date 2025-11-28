@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# File: 2-listening_ports.sh
+# 4-TCP_and_UDP_ports
 
-# Shows only listening sockets with PID and program name
-ss -tulnp
+# yalnız listening portları göstər və PID/Program adını göstər
+netstat -tulnp
